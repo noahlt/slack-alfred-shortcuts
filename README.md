@@ -24,7 +24,6 @@ This helper lets you create Alfred shortcuts for Slack channels and DMs, so that
 5. Open `$HOME/shortcuts` in Finder
 6. In Alfred Preferences (open Alfred then press `⌘,`), open Features > Default Results
     1. In the Extras section, click `Advanced` and drag in one of the files from `$HOME/shortcuts` to add the "internet location" files to Alfred's search index.
-
-		2. In the Search Scope section, click `+` and select `$HOME/shortcuts` to add it to the list of directories
+    2. In the Search Scope section, click `+` and select `$HOME/shortcuts` to add it to the list of directories
 
 Now you should be able to type one of the keywords you specified to open it in the Slack app!
