@@ -27,3 +27,9 @@ This helper lets you create Alfred shortcuts for Slack channels and DMs, so that
     2. In the Search Scope section, click `+` and select `$HOME/shortcuts` to add it to the list of directories
 
 Now you should be able to type one of the keywords you specified to open it in the Slack app!
+
+## Future work
+
+The next step would be to make a Slack App that you connect to your account, and then it automatically crawls your account and generates shortcuts for you (possibly refreshing them from time to time.)
+
+Creating Slack Apps is a pain and I can't be bothered to do that at the moment.
